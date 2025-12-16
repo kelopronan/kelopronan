@@ -9,6 +9,18 @@
 
 ## 🧠 About Me
 
+Currently designing a story-focused action game inspired by cinematic storytelling and precision melee combat. The project is in pre-production and team-building phase while I finish my board exams; full development will begin after.
+
+Primary focus areas:
+
+Game design & narrative systems
+
+Combat mechanics (Unreal Engine / C++)
+
+Long-term worldbuilding & scalable architecture
+
+Looking to collaborate with developers, artists, and sound designers who enjoy building strong foundations before rushing production.
+
 I'm a curious and determined 12th Grader, currently prepping for the **SAT** while diving deep into programming. I thrive on understanding systems from the ground up and enjoy writing code that’s not just functional — but meaningful.
 
 - 🧩 Love solving logical problems  
