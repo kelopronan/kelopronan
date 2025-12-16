@@ -60,10 +60,8 @@ I'm a curious and determined 12th Grader, currently prepping for the **SAT** whi
 ## 📈 What’s Coming Next
 
 - Full-stack web development (React + Node)
-- Building and publishing personal projects
+- Developement of a narrative driven action game
 - GitHub history that actually *says something*
-- First open-source PR by year-end
-- Competitive programming (coming soon ⚔️)
 
 ---
 
