@@ -1,106 +1,113 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Devansh+Tiwary+%F0%9F%91%8B;Code.+Think.+Build.;Building+games+%26+systems.;One+commit+at+a+time." alt="Typing SVG" />
-</h1>
-
-<h3 align="center">Aspiring Software Engineer · 12th Grader · Game Dev · SAT Candidate</h3>
-
-<p align="center">
-  <a href="https://kelopronan.github.io/Website/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-kelopronan.github.io-blue?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:qwertybabaqwerty@gmail.com">
-    <img src="https://img.shields.io/badge/Email-qwertybabaqwerty%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/kelopronan">
-    <img src="https://img.shields.io/badge/GitHub-kelopronan-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🧠 About Me
-
-I'm a **curious and driven 12th grader** from India with a deep passion for systems, logic, and building things from scratch. Whether it's crunching algorithms in C++ or architecting a full game world — I believe in understanding the *why* before the *how*.
-
-- 🧩 Love dissecting complex problems and building clean solutions
-- 💬 Strong believer in fundamentals over shortcuts
-- 📚 Planning undergrad in India → Master's in the US
-- ⚡ Code clean, stay consistent, improve every day
-
----
-
-## 🛠️ Languages & Tools
-
 <div align="center">
-
-### Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Platforms
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Devansh%20Tiwary&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
 
----
-
-## 🚧 What I'm Working On
-
-### 🔴 ARGUS
-A personal project currently in active development — details coming soon. Watch this space.
-
-### ⚔️ Unnamed Narrative Action Game *(Pre-Production)*
-A story-focused action game built around cinematic storytelling and precision melee combat. Currently in pre-production and team-building phase while I finish board exams — full development kicks off after.
-
-Key pillars:
-- 🎮 Deep **game design & narrative systems**
-- ⚔️ Tight **combat mechanics** built in Unreal Engine / C++
-- 🌍 Long-term **worldbuilding** & scalable architecture
-
-> Looking to collaborate with developers, artists, and sound designers who care about strong foundations. Reach out if that's you.
-
----
-
-## 🎯 Current Focus
-
-| Area | Status |
-|---|---|
-| 📐 SAT Prep (1500+ target) | 🔄 Active |
-| 🧩 Data Structures & Algorithms (C++) | 🔄 Active |
-| 🔴 ARGUS | 🔄 Active |
-| ⚙️ Systems Programming in Rust | 🔄 Active |
-| ☕ Java OOP | 🔄 Active |
-| 🐍 Python scripting & utilities | 🔄 Active |
-
----
-
-## 📈 On the Horizon
-
-- Full-stack web development (React + Node.js)
-- Narrative-driven action game — full production phase
-- A GitHub history that actually *says something*
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2B6CB0&center=true&vCenter=true&width=600&lines=Systems+Engineer;Game+Developer;Low-Level+Software+Architect;Rust+%26+C%2B%2B+Enthusiast" alt="Typing SVG" />
+  </a>
+</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kelopronan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kelopronan&theme=tokyonight&hide_border=true" />
+  <a href="mailto:devanshtiwary2911@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devanshtiwary2911%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Devansh_Tiwary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://youtube.com/">
+    <img src="https://img.shields.io/badge/YouTube-Ronan_S._Atomos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+<br/>
+
+### 🚀 About Me
+
+I am a highly driven systems programmer and software engineer focused on building low-level, high-performance infrastructure, custom engine architecture, and data pipelines. From dissecting complex mechanics to engineering complete interactive worlds, I dedicate myself to deep architectural understanding and robust problem-solving over framework shortcuts.
+
+- 🛠️ **Current Focus:** Advanced Data Structures & Algorithms (DSA), low-level memory management, and high-performance engineering in Rust and C++.
+- 🎮 **Content Ecosystem:** Managing a dedicated creative media presence, documenting advanced gameplay systems, cinematics, and technical media.
+- 🎓 **Trajectory:** Transitioning into advanced computer science undergraduate tracks with a core focus on systems and game design.
+- 💡 **Core Mantra:** Clean abstractions, persistent optimization, and consistent daily iteration.
+
+---
+
+### 💻 Deep Tech Stack & Tooling
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>⚡ Languages</b><br/><br/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <b>🛠️ Tools & Platforms</b><br/><br/>
+      <img src="https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Core Engineering Projects
+
+<details open>
+<summary><b>⚡ ARGUS | Memory & System Layer</b></summary>
+<br>
+<p align="left">
+  An active system implementation engineered purely in <b>Rust</b>. Focuses on low-level safety guarantees, performant data manipulation, and parallel runtime safety without sacrificing bare-metal execution speed.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Language-Rust%20🦀-black?style=flat-square" /> <img src="https://img.shields.io/badge/Architecture-Low--Level-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Active%20Development-green?style=flat-square" />
+</p>
+</details>
+
+<br>
+
+<details open>
+<summary><b>🎮 Unnamed Narrative Action Title | Game Engine Layer</b></summary>
+<br>
+<p align="left">
+  A story-focused, high-fidelity action game featuring tight combat feedback loops, precise collision detection, and immersive worldbuilding pipelines. Built on custom structural layers over <b>Unreal Engine 5</b> and <b>C++</b>.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Engine-Unreal%20Engine%205%20🎮-0E1128?style=flat-square" /> <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square" /> <img src="https://img.shields.io/badge/Phase-Pre--Production-orange?style=flat-square" />
+</p>
+</details>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-readme-trophies.vercel.app/?username=kelopronan&theme=tokyonight&margin-w=15&margin-h=15&column=6&no-frame=true" alt="Trophies" width="100%"/>
+</p>
+
+---
+
+### 📊 Dynamic Developer Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelopronan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelopronan&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelopronan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelopronan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="65%" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelopronan&theme=tokyonight&bg_color=1a1b27&hide_border=true&color=2B6CB0" width="100%" alt="Activity Graph" />
 </p>
 
 ---
