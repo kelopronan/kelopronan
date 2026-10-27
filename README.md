@@ -11,24 +11,20 @@
   </p>
 </div>
 
+<p align="center">
+  <img src="./profile-art.svg" width="100%" alt="A minimal Gradian caption preview in deep green, mint, and warm cream" />
+</p>
+
 ## Hey, I'm Devansh
 
-I’m building **[Gradian](https://www.gradian.site)**, a captioning and video creation studio. I like taking a rough idea and obsessing over the details until the product feels clear, quick, and actually enjoyable to use.
+I like making things and getting the details right. These days I’m building **[Gradian](https://www.gradian.site)**, a captioning and video creation studio, and exploring game development. I’m also curious about theoretical physics, especially the search for dark matter.
 
-Lately, that means making captions more reliable, motion graphics more expressive, and the editor feel like a proper creative workspace. Away from the screen, I’m curious about theoretical physics and the search for dark matter.
+## Things I'm building
 
-## Things I enjoy
+- **[Gradian](https://www.gradian.site):** A creative studio for captions, video, and motion graphics. I’m focused on making it feel reliable and enjoyable to use.
+- **ARGUS:** My personal assistant, built for Discord and desktop. I’ve been shaping its memory and personality along the way.
+- **Unity shooter:** A game I’m making in Unity with C#. Right now, I’m focused on getting the movement and combat to feel good.
 
-- Making creative tools that feel thoughtful, not complicated
-- Motion, typography, and the tiny details that make an interaction click
-- Pulling apart how things work, from software to the universe
+## Tools & learning
 
-## A few tools I use
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=171717" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-171717?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-</p>
+I work with **C, C#, Python, TypeScript, and JavaScript**, and use **Unity** and **Unreal Engine** for game development. I’m currently learning **Rust**.
