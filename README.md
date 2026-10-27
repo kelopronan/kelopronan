@@ -11,10 +11,6 @@
   </p>
 </div>
 
-<p align="center">
-  <img src="./profile-art.svg" width="100%" alt="A minimal Gradian caption preview in deep green, mint, and warm cream" />
-</p>
-
 ## Hey, I'm Devansh
 
 I like making things and getting the details right. These days I’m building **[Gradian](https://www.gradian.site)**, a captioning and video creation studio, and exploring game development. I’m also curious about theoretical physics, especially the search for dark matter.
